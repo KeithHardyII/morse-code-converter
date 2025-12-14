@@ -70,4 +70,4 @@ HELLO
 
 ## Author
 
-Created by [Keith Hardy II]
+Created by Keith Hardy II
