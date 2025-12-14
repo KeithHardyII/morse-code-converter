@@ -15,7 +15,7 @@ A simple desktop application built with **Python** and **Tkinter** that converts
 
 ## Demo
 
-![Morse Code Converter Demo](assets/gifs/demo.gif)
+![Morse Code Converter Demo](assets/gifs/MorseCodeShowcase.gif)
 
 ---
 
